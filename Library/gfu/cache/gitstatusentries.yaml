@@ -1,0 +1,3474 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-02-28T11:37:05.708-08:00
+  initializedAtString: 2020-02-28T10:52:23.232-08:00
+  entries:
+  - path: actual_hw2.sln
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\actual_hw2.sln
+    projectPath: actual_hw2.sln
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp.csproj
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\assetDatabase3
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Collab\CollabSnapshot_f648e5ea-197f-4950-b748-3d1a46d1680b.txt
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\Collab\CollabSnapshot_f648e5ea-197f-4950-b748-3d1a46d1680b.txt
+    projectPath: Library\Collab\CollabSnapshot_f648e5ea-197f-4950-b748-3d1a46d1680b.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\CurrentLayout.dwlt
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorInstance.json
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\expandedItems
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\00\00000000000000004000000000000000
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\00\00000000000000004000000000000000
+    projectPath: Library\metadata\00\00000000000000004000000000000000
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\00\0000000000000000a100000000000000
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\00\0000000000000000a100000000000000
+    projectPath: Library\metadata\00\0000000000000000a100000000000000
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\00\0000000000000000c100000000000000
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\00\0000000000000000c100000000000000
+    projectPath: Library\metadata\00\0000000000000000c100000000000000
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\00\00efa618787cb1a4d81f545d7f37553e
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\00\00efa618787cb1a4d81f545d7f37553e
+    projectPath: Library\metadata\00\00efa618787cb1a4d81f545d7f37553e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\01\0124cfacc7f727847a31724fbc05fc3f
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\01\0124cfacc7f727847a31724fbc05fc3f
+    projectPath: Library\metadata\01\0124cfacc7f727847a31724fbc05fc3f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\01\0124cfacc7f727847a31724fbc05fc3f.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\01\0124cfacc7f727847a31724fbc05fc3f.info
+    projectPath: Library\metadata\01\0124cfacc7f727847a31724fbc05fc3f.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\01\01e02995805eb483690380a911a657e2
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\01\01e02995805eb483690380a911a657e2
+    projectPath: Library\metadata\01\01e02995805eb483690380a911a657e2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\05\054a31a99d11e49d110086ba44295342
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\05\054a31a99d11e49d110086ba44295342
+    projectPath: Library\metadata\05\054a31a99d11e49d110086ba44295342
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\05\054a31a99d11e49d110086ba44295342.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\05\054a31a99d11e49d110086ba44295342.info
+    projectPath: Library\metadata\05\054a31a99d11e49d110086ba44295342.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\06\066619c9c9c84f89acb1b48c11a7efe2
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\06\066619c9c9c84f89acb1b48c11a7efe2
+    projectPath: Library\metadata\06\066619c9c9c84f89acb1b48c11a7efe2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\0b\0b986f2784531e24cac554d1f7a2f310
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\0b\0b986f2784531e24cac554d1f7a2f310
+    projectPath: Library\metadata\0b\0b986f2784531e24cac554d1f7a2f310
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\0b\0b986f2784531e24cac554d1f7a2f310.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\0b\0b986f2784531e24cac554d1f7a2f310.info
+    projectPath: Library\metadata\0b\0b986f2784531e24cac554d1f7a2f310.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\0d\0d9a36012a224080966c7b55896aa0f9
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\0d\0d9a36012a224080966c7b55896aa0f9
+    projectPath: Library\metadata\0d\0d9a36012a224080966c7b55896aa0f9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\0e\0e24fc342ddff934f888767ea893fa87
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\0e\0e24fc342ddff934f888767ea893fa87
+    projectPath: Library\metadata\0e\0e24fc342ddff934f888767ea893fa87
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\10\10145f279f90346bbb61712ff585828b
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\10\10145f279f90346bbb61712ff585828b
+    projectPath: Library\metadata\10\10145f279f90346bbb61712ff585828b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\10\10bf81265ad87424d946598c575f45a0
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\10\10bf81265ad87424d946598c575f45a0
+    projectPath: Library\metadata\10\10bf81265ad87424d946598c575f45a0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+    projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\12\12736c98af174f91827a26b66d2b01b9
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\12\12736c98af174f91827a26b66d2b01b9
+    projectPath: Library\metadata\12\12736c98af174f91827a26b66d2b01b9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\12\127da7c66130d52429c15698dcefe8b8
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\12\127da7c66130d52429c15698dcefe8b8
+    projectPath: Library\metadata\12\127da7c66130d52429c15698dcefe8b8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\16\16230da5e78ec8644aa553d5726c8424
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\16\16230da5e78ec8644aa553d5726c8424
+    projectPath: Library\metadata\16\16230da5e78ec8644aa553d5726c8424
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\16\16de698b7d2dd3f469adc05a2b2dd365
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\16\16de698b7d2dd3f469adc05a2b2dd365
+    projectPath: Library\metadata\16\16de698b7d2dd3f469adc05a2b2dd365
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\16\16de698b7d2dd3f469adc05a2b2dd365.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\16\16de698b7d2dd3f469adc05a2b2dd365.info
+    projectPath: Library\metadata\16\16de698b7d2dd3f469adc05a2b2dd365.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+    projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\18\18775b51e3bd42299fd30bd036ea982f
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\18\18775b51e3bd42299fd30bd036ea982f
+    projectPath: Library\metadata\18\18775b51e3bd42299fd30bd036ea982f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\18\18a4fadfef534684d5af39ca8dc48fe9
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\18\18a4fadfef534684d5af39ca8dc48fe9
+    projectPath: Library\metadata\18\18a4fadfef534684d5af39ca8dc48fe9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+    projectPath: Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+    projectPath: Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\1b\1b32bcce201b4494ea8848326290c5d5
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\1b\1b32bcce201b4494ea8848326290c5d5
+    projectPath: Library\metadata\1b\1b32bcce201b4494ea8848326290c5d5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\1b\1b355da31ea043feba0c03e35dd4bc62
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\1b\1b355da31ea043feba0c03e35dd4bc62
+    projectPath: Library\metadata\1b\1b355da31ea043feba0c03e35dd4bc62
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\1e\1ebfcca520083274f9a28d5a736f1ce3
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\1e\1ebfcca520083274f9a28d5a736f1ce3
+    projectPath: Library\metadata\1e\1ebfcca520083274f9a28d5a736f1ce3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\1e\1ebfcca520083274f9a28d5a736f1ce3.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\1e\1ebfcca520083274f9a28d5a736f1ce3.info
+    projectPath: Library\metadata\1e\1ebfcca520083274f9a28d5a736f1ce3.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\20\204d0adabf64fef48955da96fa64e290
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\20\204d0adabf64fef48955da96fa64e290
+    projectPath: Library\metadata\20\204d0adabf64fef48955da96fa64e290
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\20\204d0adabf64fef48955da96fa64e290.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\20\204d0adabf64fef48955da96fa64e290.info
+    projectPath: Library\metadata\20\204d0adabf64fef48955da96fa64e290.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\22\22590238f719c3245991bc0f95c4496e
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\22\22590238f719c3245991bc0f95c4496e
+    projectPath: Library\metadata\22\22590238f719c3245991bc0f95c4496e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\22\22c403f006235a649a776b075be385de
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\22\22c403f006235a649a776b075be385de
+    projectPath: Library\metadata\22\22c403f006235a649a776b075be385de
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\22\22c403f006235a649a776b075be385de.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\22\22c403f006235a649a776b075be385de.info
+    projectPath: Library\metadata\22\22c403f006235a649a776b075be385de.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\23\23c8bee69b591054094d32918f98facd
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\23\23c8bee69b591054094d32918f98facd
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\25\25ebe415cc14c4f4ea15c34a796b75bb
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\25\25ebe415cc14c4f4ea15c34a796b75bb
+    projectPath: Library\metadata\25\25ebe415cc14c4f4ea15c34a796b75bb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\2c\2c814623cb42764d304be0c5ddd03ceb
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\2c\2c814623cb42764d304be0c5ddd03ceb
+    projectPath: Library\metadata\2c\2c814623cb42764d304be0c5ddd03ceb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\2f\2fd6421f253b4ef1a19526541f9ffc0c
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\2f\2fd6421f253b4ef1a19526541f9ffc0c
+    projectPath: Library\metadata\2f\2fd6421f253b4ef1a19526541f9ffc0c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\32\329a25304039ca64089a0ac6f944ee73
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\32\329a25304039ca64089a0ac6f944ee73
+    projectPath: Library\metadata\32\329a25304039ca64089a0ac6f944ee73
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9
+    projectPath: Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9.info
+    projectPath: Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\34\342a0f8aca7f4f0691338912faec0494
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\34\342a0f8aca7f4f0691338912faec0494
+    projectPath: Library\metadata\34\342a0f8aca7f4f0691338912faec0494
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\35\35c6f66c309a5cf4ea66ad6731040041
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\35\35c6f66c309a5cf4ea66ad6731040041
+    projectPath: Library\metadata\35\35c6f66c309a5cf4ea66ad6731040041
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\35\35c6f66c309a5cf4ea66ad6731040041.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\35\35c6f66c309a5cf4ea66ad6731040041.info
+    projectPath: Library\metadata\35\35c6f66c309a5cf4ea66ad6731040041.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\35\35ff0937876540d3bd4b6a941df62a92
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\35\35ff0937876540d3bd4b6a941df62a92
+    projectPath: Library\metadata\35\35ff0937876540d3bd4b6a941df62a92
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\37\3734522b011f7dc4594e093e2983c289
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\37\3734522b011f7dc4594e093e2983c289
+    projectPath: Library\metadata\37\3734522b011f7dc4594e093e2983c289
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\37\3734522b011f7dc4594e093e2983c289.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\37\3734522b011f7dc4594e093e2983c289.info
+    projectPath: Library\metadata\37\3734522b011f7dc4594e093e2983c289.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc
+    projectPath: Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\3a\3a0fec9fc546ab840967da0daa58a3c9
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\3a\3a0fec9fc546ab840967da0daa58a3c9
+    projectPath: Library\metadata\3a\3a0fec9fc546ab840967da0daa58a3c9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\3a\3a2d94c8977984b67984caeff9fa666e
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\3a\3a2d94c8977984b67984caeff9fa666e
+    projectPath: Library\metadata\3a\3a2d94c8977984b67984caeff9fa666e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\3a\3a8cbf428b380bd4a8eb3207f04f3c36
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\3a\3a8cbf428b380bd4a8eb3207f04f3c36
+    projectPath: Library\metadata\3a\3a8cbf428b380bd4a8eb3207f04f3c36
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\3a\3a8cbf428b380bd4a8eb3207f04f3c36.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\3a\3a8cbf428b380bd4a8eb3207f04f3c36.info
+    projectPath: Library\metadata\3a\3a8cbf428b380bd4a8eb3207f04f3c36.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\3a\3aba9fe1ad29b42ffb0eea781318a626
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\3a\3aba9fe1ad29b42ffb0eea781318a626
+    projectPath: Library\metadata\3a\3aba9fe1ad29b42ffb0eea781318a626
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\3b\3bb0254b9671413d9d08a855c5090237
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\3b\3bb0254b9671413d9d08a855c5090237
+    projectPath: Library\metadata\3b\3bb0254b9671413d9d08a855c5090237
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\3c\3c6c403084eacec478a1129ce20061ea
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\3c\3c6c403084eacec478a1129ce20061ea
+    projectPath: Library\metadata\3c\3c6c403084eacec478a1129ce20061ea
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\3c\3cf132d4fa07f4f0cb2883499c5c7dd0
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\3c\3cf132d4fa07f4f0cb2883499c5c7dd0
+    projectPath: Library\metadata\3c\3cf132d4fa07f4f0cb2883499c5c7dd0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\3e\3e9a2175e0404f7ea30b2b694850bae0
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\3e\3e9a2175e0404f7ea30b2b694850bae0
+    projectPath: Library\metadata\3e\3e9a2175e0404f7ea30b2b694850bae0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\3e\3ee40aa79cd242a5b53b0b0ca4f13f0f
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\3e\3ee40aa79cd242a5b53b0b0ca4f13f0f
+    projectPath: Library\metadata\3e\3ee40aa79cd242a5b53b0b0ca4f13f0f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\3f\3f8b5fec194211441be3e73dac73a934
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\3f\3f8b5fec194211441be3e73dac73a934
+    projectPath: Library\metadata\3f\3f8b5fec194211441be3e73dac73a934
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\3f\3f8b5fec194211441be3e73dac73a934.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\3f\3f8b5fec194211441be3e73dac73a934.info
+    projectPath: Library\metadata\3f\3f8b5fec194211441be3e73dac73a934.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\41\41b96614b2e6494ba995ddcd252d11ae
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\41\41b96614b2e6494ba995ddcd252d11ae
+    projectPath: Library\metadata\41\41b96614b2e6494ba995ddcd252d11ae
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\46\46098a81a64a45c5b756320e10a22f13
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\46\46098a81a64a45c5b756320e10a22f13
+    projectPath: Library\metadata\46\46098a81a64a45c5b756320e10a22f13
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\46\46c02d8d6499b4309ac1ec5d0b818585
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\46\46c02d8d6499b4309ac1ec5d0b818585
+    projectPath: Library\metadata\46\46c02d8d6499b4309ac1ec5d0b818585
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5
+    projectPath: Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5.info
+    projectPath: Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\48\48b1076c0a6973049887545f0ff497a2
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\48\48b1076c0a6973049887545f0ff497a2
+    projectPath: Library\metadata\48\48b1076c0a6973049887545f0ff497a2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\48\48d034c499ee4697af9dd6e327110249
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\48\48d034c499ee4697af9dd6e327110249
+    projectPath: Library\metadata\48\48d034c499ee4697af9dd6e327110249
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\48\48dca5b99d113b8d11006bab44295342
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\48\48dca5b99d113b8d11006bab44295342
+    projectPath: Library\metadata\48\48dca5b99d113b8d11006bab44295342
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\49\49679f302ac6408697f6b9314a38985c
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\49\49679f302ac6408697f6b9314a38985c
+    projectPath: Library\metadata\49\49679f302ac6408697f6b9314a38985c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e
+    projectPath: Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e.info
+    projectPath: Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\4c\4c433abcdb28444ebb7bd395ba5c76fc
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\4c\4c433abcdb28444ebb7bd395ba5c76fc
+    projectPath: Library\metadata\4c\4c433abcdb28444ebb7bd395ba5c76fc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6
+    projectPath: Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\4f\4f768b64e6c37495699fffe3007e4379
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\4f\4f768b64e6c37495699fffe3007e4379
+    projectPath: Library\metadata\4f\4f768b64e6c37495699fffe3007e4379
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\4f\4f78fb8f35808114a933bd10fd3eafb7
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\4f\4f78fb8f35808114a933bd10fd3eafb7
+    projectPath: Library\metadata\4f\4f78fb8f35808114a933bd10fd3eafb7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\52\52327a8c8e8c0424597d1de5d31deb31
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\52\52327a8c8e8c0424597d1de5d31deb31
+    projectPath: Library\metadata\52\52327a8c8e8c0424597d1de5d31deb31
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\52\52936e930599db64a96db540383761b4
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\52\52936e930599db64a96db540383761b4
+    projectPath: Library\metadata\52\52936e930599db64a96db540383761b4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\53\534b3ce9096519d48a1e04b355f8295c
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\53\534b3ce9096519d48a1e04b355f8295c
+    projectPath: Library\metadata\53\534b3ce9096519d48a1e04b355f8295c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\53\534b3ce9096519d48a1e04b355f8295c.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\53\534b3ce9096519d48a1e04b355f8295c.info
+    projectPath: Library\metadata\53\534b3ce9096519d48a1e04b355f8295c.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\54\540a82a9d806aa24998398e91b23f068
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\54\540a82a9d806aa24998398e91b23f068
+    projectPath: Library\metadata\54\540a82a9d806aa24998398e91b23f068
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\54\540a82a9d806aa24998398e91b23f068.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\54\540a82a9d806aa24998398e91b23f068.info
+    projectPath: Library\metadata\54\540a82a9d806aa24998398e91b23f068.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\54\5469b734033cb4d4590fafed0df132b1
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\54\5469b734033cb4d4590fafed0df132b1
+    projectPath: Library\metadata\54\5469b734033cb4d4590fafed0df132b1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\54\5469b734033cb4d4590fafed0df132b1.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\54\5469b734033cb4d4590fafed0df132b1.info
+    projectPath: Library\metadata\54\5469b734033cb4d4590fafed0df132b1.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+    projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\56\56728742d37eeb24cb830c14a33802be
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\56\56728742d37eeb24cb830c14a33802be
+    projectPath: Library\metadata\56\56728742d37eeb24cb830c14a33802be
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\56\56728742d37eeb24cb830c14a33802be.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\56\56728742d37eeb24cb830c14a33802be.info
+    projectPath: Library\metadata\56\56728742d37eeb24cb830c14a33802be.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\56\567e19ba84ec45b4c96316023c140d5c
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\56\567e19ba84ec45b4c96316023c140d5c
+    projectPath: Library\metadata\56\567e19ba84ec45b4c96316023c140d5c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\58\585b70cb75dd43efbfead809c30a1731
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\58\585b70cb75dd43efbfead809c30a1731
+    projectPath: Library\metadata\58\585b70cb75dd43efbfead809c30a1731
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\58\586adcd1147d87943a9a140faf4b9e70
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\58\586adcd1147d87943a9a140faf4b9e70
+    projectPath: Library\metadata\58\586adcd1147d87943a9a140faf4b9e70
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\58\586adcd1147d87943a9a140faf4b9e70.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\58\586adcd1147d87943a9a140faf4b9e70.info
+    projectPath: Library\metadata\58\586adcd1147d87943a9a140faf4b9e70.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\59\599a5fd92bab81a4ab02e52d0b1b1c60
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\59\599a5fd92bab81a4ab02e52d0b1b1c60
+    projectPath: Library\metadata\59\599a5fd92bab81a4ab02e52d0b1b1c60
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\5a\5a2082a44711bad4b90f693579c2b336
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\5a\5a2082a44711bad4b90f693579c2b336
+    projectPath: Library\metadata\5a\5a2082a44711bad4b90f693579c2b336
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\5a\5a2082a44711bad4b90f693579c2b336.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\5a\5a2082a44711bad4b90f693579c2b336.info
+    projectPath: Library\metadata\5a\5a2082a44711bad4b90f693579c2b336.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\5d\5db996ac08dc7a744a564930946ddc1b
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\5d\5db996ac08dc7a744a564930946ddc1b
+    projectPath: Library\metadata\5d\5db996ac08dc7a744a564930946ddc1b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\5e\5e7c9ab97e5884e4eaa5967e9024f39d
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\5e\5e7c9ab97e5884e4eaa5967e9024f39d
+    projectPath: Library\metadata\5e\5e7c9ab97e5884e4eaa5967e9024f39d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\64\64b9fad609434c489c32b1cdf2004a1c
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\64\64b9fad609434c489c32b1cdf2004a1c
+    projectPath: Library\metadata\64\64b9fad609434c489c32b1cdf2004a1c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\66\663f6eab6317052448bb92b920833475
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\66\663f6eab6317052448bb92b920833475
+    projectPath: Library\metadata\66\663f6eab6317052448bb92b920833475
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\68\682fa31a860113e46a0e50f259001903
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\68\682fa31a860113e46a0e50f259001903
+    projectPath: Library\metadata\68\682fa31a860113e46a0e50f259001903
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\68\682fa31a860113e46a0e50f259001903.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\68\682fa31a860113e46a0e50f259001903.info
+    projectPath: Library\metadata\68\682fa31a860113e46a0e50f259001903.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\69\691475c57a824010be0c6f474caeb7e1
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\69\691475c57a824010be0c6f474caeb7e1
+    projectPath: Library\metadata\69\691475c57a824010be0c6f474caeb7e1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\6a\6ace62d30f494c948b71d5594afce11d
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\6a\6ace62d30f494c948b71d5594afce11d
+    projectPath: Library\metadata\6a\6ace62d30f494c948b71d5594afce11d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\6d\6d56244f8c39a851975d3c0bd432c66f
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\6d\6d56244f8c39a851975d3c0bd432c66f
+    projectPath: Library\metadata\6d\6d56244f8c39a851975d3c0bd432c66f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\6e\6e2d432c5ea14e75aa3a79f90f704442
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\6e\6e2d432c5ea14e75aa3a79f90f704442
+    projectPath: Library\metadata\6e\6e2d432c5ea14e75aa3a79f90f704442
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615
+    projectPath: Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615.info
+    projectPath: Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\6f\6fe576b47d8b47688ec5d02bccd15cf9
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\6f\6fe576b47d8b47688ec5d02bccd15cf9
+    projectPath: Library\metadata\6f\6fe576b47d8b47688ec5d02bccd15cf9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\70\70d4d75a2877243758b0750cbc75b6eb
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\70\70d4d75a2877243758b0750cbc75b6eb
+    projectPath: Library\metadata\70\70d4d75a2877243758b0750cbc75b6eb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+    projectPath: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+    projectPath: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\72\7298608271dbe494c8af963ad9c502d1
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\72\7298608271dbe494c8af963ad9c502d1
+    projectPath: Library\metadata\72\7298608271dbe494c8af963ad9c502d1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\72\7298608271dbe494c8af963ad9c502d1.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\72\7298608271dbe494c8af963ad9c502d1.info
+    projectPath: Library\metadata\72\7298608271dbe494c8af963ad9c502d1.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\73\73a938a469dc3474fa4f628a4e6e685c
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\73\73a938a469dc3474fa4f628a4e6e685c
+    projectPath: Library\metadata\73\73a938a469dc3474fa4f628a4e6e685c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\7c\7c64fd75c5786fd4da527a9d1e2e9f71
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\7c\7c64fd75c5786fd4da527a9d1e2e9f71
+    projectPath: Library\metadata\7c\7c64fd75c5786fd4da527a9d1e2e9f71
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\7c\7c64fd75c5786fd4da527a9d1e2e9f71.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\7c\7c64fd75c5786fd4da527a9d1e2e9f71.info
+    projectPath: Library\metadata\7c\7c64fd75c5786fd4da527a9d1e2e9f71.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\7c\7cecd092501d4594ea4b08495ad6e667
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\7c\7cecd092501d4594ea4b08495ad6e667
+    projectPath: Library\metadata\7c\7cecd092501d4594ea4b08495ad6e667
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\7c\7cecd092501d4594ea4b08495ad6e667.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\7c\7cecd092501d4594ea4b08495ad6e667.info
+    projectPath: Library\metadata\7c\7cecd092501d4594ea4b08495ad6e667.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\7d\7dffb4213b0322d41b5ffc1ff111199d
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\7d\7dffb4213b0322d41b5ffc1ff111199d
+    projectPath: Library\metadata\7d\7dffb4213b0322d41b5ffc1ff111199d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\7e\7ef42ea14e2ea2f4cbe98673ea1e159b
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\7e\7ef42ea14e2ea2f4cbe98673ea1e159b
+    projectPath: Library\metadata\7e\7ef42ea14e2ea2f4cbe98673ea1e159b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\81\81ed8c76d2bc4a4c95d092c98af4e58f
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\81\81ed8c76d2bc4a4c95d092c98af4e58f
+    projectPath: Library\metadata\81\81ed8c76d2bc4a4c95d092c98af4e58f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\85\8515ba7954f7e1b4c93cb2071bb1c7a3
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\85\8515ba7954f7e1b4c93cb2071bb1c7a3
+    projectPath: Library\metadata\85\8515ba7954f7e1b4c93cb2071bb1c7a3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\85\8515ba7954f7e1b4c93cb2071bb1c7a3.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\85\8515ba7954f7e1b4c93cb2071bb1c7a3.info
+    projectPath: Library\metadata\85\8515ba7954f7e1b4c93cb2071bb1c7a3.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+    projectPath: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+    projectPath: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\87\877ef3585573ce44eab899298be23158
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\87\877ef3585573ce44eab899298be23158
+    projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\87\87d720faa37005c08600090e04d8c739
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\87\87d720faa37005c08600090e04d8c739
+    projectPath: Library\metadata\87\87d720faa37005c08600090e04d8c739
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\88\88f7a33440f048743b9d3ecb8c94eefa
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\88\88f7a33440f048743b9d3ecb8c94eefa
+    projectPath: Library\metadata\88\88f7a33440f048743b9d3ecb8c94eefa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\88\88f7a33440f048743b9d3ecb8c94eefa.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\88\88f7a33440f048743b9d3ecb8c94eefa.info
+    projectPath: Library\metadata\88\88f7a33440f048743b9d3ecb8c94eefa.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\8b\8bc445bb79654bf496c92d0407840a92
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\8b\8bc445bb79654bf496c92d0407840a92
+    projectPath: Library\metadata\8b\8bc445bb79654bf496c92d0407840a92
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\90\901de93fee4e5954eba6f2d8c453f688
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\90\901de93fee4e5954eba6f2d8c453f688
+    projectPath: Library\metadata\90\901de93fee4e5954eba6f2d8c453f688
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\91\916c4f980ba568a4f8a786930a704e14
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\91\916c4f980ba568a4f8a786930a704e14
+    projectPath: Library\metadata\91\916c4f980ba568a4f8a786930a704e14
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\91\916c4f980ba568a4f8a786930a704e14.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\91\916c4f980ba568a4f8a786930a704e14.info
+    projectPath: Library\metadata\91\916c4f980ba568a4f8a786930a704e14.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\92\92027f7f8cfc4feaa477da0dc38d3d46
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\92\92027f7f8cfc4feaa477da0dc38d3d46
+    projectPath: Library\metadata\92\92027f7f8cfc4feaa477da0dc38d3d46
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\92\9266190ebfb3f6d4caaaf88e71439607
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\92\9266190ebfb3f6d4caaaf88e71439607
+    projectPath: Library\metadata\92\9266190ebfb3f6d4caaaf88e71439607
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\92\9266190ebfb3f6d4caaaf88e71439607.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\92\9266190ebfb3f6d4caaaf88e71439607.info
+    projectPath: Library\metadata\92\9266190ebfb3f6d4caaaf88e71439607.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\92\9288066c33474b94b6ee5465f4df1cc0
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\92\9288066c33474b94b6ee5465f4df1cc0
+    projectPath: Library\metadata\92\9288066c33474b94b6ee5465f4df1cc0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\92\92b9d0ccf1121a544a544c09f4c54242
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\92\92b9d0ccf1121a544a544c09f4c54242
+    projectPath: Library\metadata\92\92b9d0ccf1121a544a544c09f4c54242
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\92\92b9d0ccf1121a544a544c09f4c54242.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\92\92b9d0ccf1121a544a544c09f4c54242.info
+    projectPath: Library\metadata\92\92b9d0ccf1121a544a544c09f4c54242.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\93\93c1370867fcb45079592da39e0994c5
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\93\93c1370867fcb45079592da39e0994c5
+    projectPath: Library\metadata\93\93c1370867fcb45079592da39e0994c5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\95\953aa174b8bbdb14dba43e2560713976
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\95\953aa174b8bbdb14dba43e2560713976
+    projectPath: Library\metadata\95\953aa174b8bbdb14dba43e2560713976
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\95\953aa174b8bbdb14dba43e2560713976.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\95\953aa174b8bbdb14dba43e2560713976.info
+    projectPath: Library\metadata\95\953aa174b8bbdb14dba43e2560713976.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\97\97dff1b5ae41ee84886ae7a80ae21499
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\97\97dff1b5ae41ee84886ae7a80ae21499
+    projectPath: Library\metadata\97\97dff1b5ae41ee84886ae7a80ae21499
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\9b\9b889f61a4d7ee14bbce4ede9aa5bb41
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\9b\9b889f61a4d7ee14bbce4ede9aa5bb41
+    projectPath: Library\metadata\9b\9b889f61a4d7ee14bbce4ede9aa5bb41
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\9c\9ce107479d11178d11005b9844295342
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\9c\9ce107479d11178d11005b9844295342
+    projectPath: Library\metadata\9c\9ce107479d11178d11005b9844295342
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\9e\9ef34673bfcd8534783e676b1c03cbd4
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\9e\9ef34673bfcd8534783e676b1c03cbd4
+    projectPath: Library\metadata\9e\9ef34673bfcd8534783e676b1c03cbd4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\9f\9f14a6cf2af634a4697d49f14cd48b0e
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\9f\9f14a6cf2af634a4697d49f14cd48b0e
+    projectPath: Library\metadata\9f\9f14a6cf2af634a4697d49f14cd48b0e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\9f\9f14a6cf2af634a4697d49f14cd48b0e.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\9f\9f14a6cf2af634a4697d49f14cd48b0e.info
+    projectPath: Library\metadata\9f\9f14a6cf2af634a4697d49f14cd48b0e.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\a0\a08b3510500d90540833d4b6f8a8c65e
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\a0\a08b3510500d90540833d4b6f8a8c65e
+    projectPath: Library\metadata\a0\a08b3510500d90540833d4b6f8a8c65e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\a0\a08b3510500d90540833d4b6f8a8c65e.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\a0\a08b3510500d90540833d4b6f8a8c65e.info
+    projectPath: Library\metadata\a0\a08b3510500d90540833d4b6f8a8c65e.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\a1\a1c9bd091112d6c408ab5ce360249c23
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\a1\a1c9bd091112d6c408ab5ce360249c23
+    projectPath: Library\metadata\a1\a1c9bd091112d6c408ab5ce360249c23
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\a4\a4eaf1e02ea2e6149bc93f2301762dde
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\a4\a4eaf1e02ea2e6149bc93f2301762dde
+    projectPath: Library\metadata\a4\a4eaf1e02ea2e6149bc93f2301762dde
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\a4\a4eaf1e02ea2e6149bc93f2301762dde.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\a4\a4eaf1e02ea2e6149bc93f2301762dde.info
+    projectPath: Library\metadata\a4\a4eaf1e02ea2e6149bc93f2301762dde.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\a7\a7ec9e7ad8b847b7ae4510af83c5d868
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\a7\a7ec9e7ad8b847b7ae4510af83c5d868
+    projectPath: Library\metadata\a7\a7ec9e7ad8b847b7ae4510af83c5d868
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\a8\a80f5c7708aa05e449d67813f06fcb4e
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\a8\a80f5c7708aa05e449d67813f06fcb4e
+    projectPath: Library\metadata\a8\a80f5c7708aa05e449d67813f06fcb4e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\a8\a80f5c7708aa05e449d67813f06fcb4e.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\a8\a80f5c7708aa05e449d67813f06fcb4e.info
+    projectPath: Library\metadata\a8\a80f5c7708aa05e449d67813f06fcb4e.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\a8\a8974fae59ee47c41ab8c19b8fc26d29
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\a8\a8974fae59ee47c41ab8c19b8fc26d29
+    projectPath: Library\metadata\a8\a8974fae59ee47c41ab8c19b8fc26d29
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\a8\a8974fae59ee47c41ab8c19b8fc26d29.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\a8\a8974fae59ee47c41ab8c19b8fc26d29.info
+    projectPath: Library\metadata\a8\a8974fae59ee47c41ab8c19b8fc26d29.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\a8\a8d9e44eff3f447db9448925617ccb44
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\a8\a8d9e44eff3f447db9448925617ccb44
+    projectPath: Library\metadata\a8\a8d9e44eff3f447db9448925617ccb44
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\ab\abdc053b8e3644f299aedc641d609a84
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\ab\abdc053b8e3644f299aedc641d609a84
+    projectPath: Library\metadata\ab\abdc053b8e3644f299aedc641d609a84
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\ac\acc34040a66fe4170bc8885268860cfe
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\ac\acc34040a66fe4170bc8885268860cfe
+    projectPath: Library\metadata\ac\acc34040a66fe4170bc8885268860cfe
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\af\af1198457431d09478aeb6863631ed3e
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\af\af1198457431d09478aeb6863631ed3e
+    projectPath: Library\metadata\af\af1198457431d09478aeb6863631ed3e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\af\af1198457431d09478aeb6863631ed3e.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\af\af1198457431d09478aeb6863631ed3e.info
+    projectPath: Library\metadata\af\af1198457431d09478aeb6863631ed3e.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\af\af4b5d451992cf2489bae9e8a90cc74e
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\af\af4b5d451992cf2489bae9e8a90cc74e
+    projectPath: Library\metadata\af\af4b5d451992cf2489bae9e8a90cc74e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\b1\b1c4db1fe3ffd964fabd52437de08fa3
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\b1\b1c4db1fe3ffd964fabd52437de08fa3
+    projectPath: Library\metadata\b1\b1c4db1fe3ffd964fabd52437de08fa3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\b1\b1c4db1fe3ffd964fabd52437de08fa3.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\b1\b1c4db1fe3ffd964fabd52437de08fa3.info
+    projectPath: Library\metadata\b1\b1c4db1fe3ffd964fabd52437de08fa3.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\b1\b1d183850e64add4db3ca989a13d9d1e
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\b1\b1d183850e64add4db3ca989a13d9d1e
+    projectPath: Library\metadata\b1\b1d183850e64add4db3ca989a13d9d1e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\b1\b1d183850e64add4db3ca989a13d9d1e.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\b1\b1d183850e64add4db3ca989a13d9d1e.info
+    projectPath: Library\metadata\b1\b1d183850e64add4db3ca989a13d9d1e.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e
+    projectPath: Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\b3\b3532b57b189e974d9dfbad1e2a21497
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\b3\b3532b57b189e974d9dfbad1e2a21497
+    projectPath: Library\metadata\b3\b3532b57b189e974d9dfbad1e2a21497
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\b3\b3532b57b189e974d9dfbad1e2a21497.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\b3\b3532b57b189e974d9dfbad1e2a21497.info
+    projectPath: Library\metadata\b3\b3532b57b189e974d9dfbad1e2a21497.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\b5\b52bde26a83564960bcb90217f72b910
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\b5\b52bde26a83564960bcb90217f72b910
+    projectPath: Library\metadata\b5\b52bde26a83564960bcb90217f72b910
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\b7\b73662ccdded61349b7ac9cbfcd35be4
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\b7\b73662ccdded61349b7ac9cbfcd35be4
+    projectPath: Library\metadata\b7\b73662ccdded61349b7ac9cbfcd35be4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\b7\b73662ccdded61349b7ac9cbfcd35be4.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\b7\b73662ccdded61349b7ac9cbfcd35be4.info
+    projectPath: Library\metadata\b7\b73662ccdded61349b7ac9cbfcd35be4.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\b9\b95ab00277ee47c687d710a3bb623d0a
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\b9\b95ab00277ee47c687d710a3bb623d0a
+    projectPath: Library\metadata\b9\b95ab00277ee47c687d710a3bb623d0a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\b9\b960a0660b8fead4688583de0f8046c3
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\b9\b960a0660b8fead4688583de0f8046c3
+    projectPath: Library\metadata\b9\b960a0660b8fead4688583de0f8046c3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\b9\b960a0660b8fead4688583de0f8046c3.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\b9\b960a0660b8fead4688583de0f8046c3.info
+    projectPath: Library\metadata\b9\b960a0660b8fead4688583de0f8046c3.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\bb\bb42b2d967d6427983c901a4ffc8ecd9
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\bb\bb42b2d967d6427983c901a4ffc8ecd9
+    projectPath: Library\metadata\bb\bb42b2d967d6427983c901a4ffc8ecd9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\bb\bbec1324b05a54939ad2fea2d7e11063
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\bb\bbec1324b05a54939ad2fea2d7e11063
+    projectPath: Library\metadata\bb\bbec1324b05a54939ad2fea2d7e11063
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\bd\bdc507fa38bc8d44b866375d2ad837de
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\bd\bdc507fa38bc8d44b866375d2ad837de
+    projectPath: Library\metadata\bd\bdc507fa38bc8d44b866375d2ad837de
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\bd\bdc507fa38bc8d44b866375d2ad837de.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\bd\bdc507fa38bc8d44b866375d2ad837de.info
+    projectPath: Library\metadata\bd\bdc507fa38bc8d44b866375d2ad837de.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c
+    projectPath: Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c.info
+    projectPath: Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\c0\c0c78025518e3134a972fbc3c6b7bbfe
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\c0\c0c78025518e3134a972fbc3c6b7bbfe
+    projectPath: Library\metadata\c0\c0c78025518e3134a972fbc3c6b7bbfe
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\c2\c2f7f6a88b4c4f20a53deb72f3d9144c
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\c2\c2f7f6a88b4c4f20a53deb72f3d9144c
+    projectPath: Library\metadata\c2\c2f7f6a88b4c4f20a53deb72f3d9144c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\c7\c7559cdbc33f04af1a5a42d2aa5b40a5
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\c7\c7559cdbc33f04af1a5a42d2aa5b40a5
+    projectPath: Library\metadata\c7\c7559cdbc33f04af1a5a42d2aa5b40a5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\c7\c76700ea0062413d9f69409b4e9e151b
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\c7\c76700ea0062413d9f69409b4e9e151b
+    projectPath: Library\metadata\c7\c76700ea0062413d9f69409b4e9e151b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\c8\c817e24b7841d85458c10b42172a42a2
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\c8\c817e24b7841d85458c10b42172a42a2
+    projectPath: Library\metadata\c8\c817e24b7841d85458c10b42172a42a2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\c8\c890ec74c5d50e542ba2e6b128880d41
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\c8\c890ec74c5d50e542ba2e6b128880d41
+    projectPath: Library\metadata\c8\c890ec74c5d50e542ba2e6b128880d41
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\c8\c8c1685a5aade814a9a6eafaf3e711ce
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\c8\c8c1685a5aade814a9a6eafaf3e711ce
+    projectPath: Library\metadata\c8\c8c1685a5aade814a9a6eafaf3e711ce
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\c8\c8c1685a5aade814a9a6eafaf3e711ce.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\c8\c8c1685a5aade814a9a6eafaf3e711ce.info
+    projectPath: Library\metadata\c8\c8c1685a5aade814a9a6eafaf3e711ce.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\ca\ca51b19024094d1b87f3e07edb0a75fb
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\ca\ca51b19024094d1b87f3e07edb0a75fb
+    projectPath: Library\metadata\ca\ca51b19024094d1b87f3e07edb0a75fb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\cb\cb33db00a66cdea4b967588ccd04c23e
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\cb\cb33db00a66cdea4b967588ccd04c23e
+    projectPath: Library\metadata\cb\cb33db00a66cdea4b967588ccd04c23e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\cb\cb33db00a66cdea4b967588ccd04c23e.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\cb\cb33db00a66cdea4b967588ccd04c23e.info
+    projectPath: Library\metadata\cb\cb33db00a66cdea4b967588ccd04c23e.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\cd\cd04727fd97552249af615f59ee29e67
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\cd\cd04727fd97552249af615f59ee29e67
+    projectPath: Library\metadata\cd\cd04727fd97552249af615f59ee29e67
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\cd\cd04727fd97552249af615f59ee29e67.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\cd\cd04727fd97552249af615f59ee29e67.info
+    projectPath: Library\metadata\cd\cd04727fd97552249af615f59ee29e67.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\cd\cd44c1bc0fa624a39aa784af44c62180
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\cd\cd44c1bc0fa624a39aa784af44c62180
+    projectPath: Library\metadata\cd\cd44c1bc0fa624a39aa784af44c62180
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\cd\cde02aa0f2f954840a08f393adb0f2c2
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\cd\cde02aa0f2f954840a08f393adb0f2c2
+    projectPath: Library\metadata\cd\cde02aa0f2f954840a08f393adb0f2c2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\cd\cde02aa0f2f954840a08f393adb0f2c2.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\cd\cde02aa0f2f954840a08f393adb0f2c2.info
+    projectPath: Library\metadata\cd\cde02aa0f2f954840a08f393adb0f2c2.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\ce\ce4ec0f498d1b1a4f90fe94e115b6f9a
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\ce\ce4ec0f498d1b1a4f90fe94e115b6f9a
+    projectPath: Library\metadata\ce\ce4ec0f498d1b1a4f90fe94e115b6f9a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\d4\d4afc04a7641c7e4880a0375a4acf3fa
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\d4\d4afc04a7641c7e4880a0375a4acf3fa
+    projectPath: Library\metadata\d4\d4afc04a7641c7e4880a0375a4acf3fa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\d4\d4afc04a7641c7e4880a0375a4acf3fa.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\d4\d4afc04a7641c7e4880a0375a4acf3fa.info
+    projectPath: Library\metadata\d4\d4afc04a7641c7e4880a0375a4acf3fa.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\d8\d84268709d11078d11005b9844295342
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\d8\d84268709d11078d11005b9844295342
+    projectPath: Library\metadata\d8\d84268709d11078d11005b9844295342
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\da\da44dd6cf7c96f54896a2d8ece9b8af9
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\da\da44dd6cf7c96f54896a2d8ece9b8af9
+    projectPath: Library\metadata\da\da44dd6cf7c96f54896a2d8ece9b8af9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\da\da44dd6cf7c96f54896a2d8ece9b8af9.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\da\da44dd6cf7c96f54896a2d8ece9b8af9.info
+    projectPath: Library\metadata\da\da44dd6cf7c96f54896a2d8ece9b8af9.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+    projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\de\dea008a17591e2541ac54d69e997067a
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\de\dea008a17591e2541ac54d69e997067a
+    projectPath: Library\metadata\de\dea008a17591e2541ac54d69e997067a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\de\dea008a17591e2541ac54d69e997067a.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\de\dea008a17591e2541ac54d69e997067a.info
+    projectPath: Library\metadata\de\dea008a17591e2541ac54d69e997067a.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\df\df5b1af33af5a8c49ba1d6fdc364926f
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\df\df5b1af33af5a8c49ba1d6fdc364926f
+    projectPath: Library\metadata\df\df5b1af33af5a8c49ba1d6fdc364926f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\df\df5b1af33af5a8c49ba1d6fdc364926f.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\df\df5b1af33af5a8c49ba1d6fdc364926f.info
+    projectPath: Library\metadata\df\df5b1af33af5a8c49ba1d6fdc364926f.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\e0\e05ace3bd15740cda0bad60d89092a5b
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\e0\e05ace3bd15740cda0bad60d89092a5b
+    projectPath: Library\metadata\e0\e05ace3bd15740cda0bad60d89092a5b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\e1\e1007cd261c84053beb0c3537782908d
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\e1\e1007cd261c84053beb0c3537782908d
+    projectPath: Library\metadata\e1\e1007cd261c84053beb0c3537782908d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\e1\e11270f1d21674c4999109757cbfa26a
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\e1\e11270f1d21674c4999109757cbfa26a
+    projectPath: Library\metadata\e1\e11270f1d21674c4999109757cbfa26a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\e2\e23646b088b53844ea380dc8e15a2626
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\e2\e23646b088b53844ea380dc8e15a2626
+    projectPath: Library\metadata\e2\e23646b088b53844ea380dc8e15a2626
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\e2\e23646b088b53844ea380dc8e15a2626.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\e2\e23646b088b53844ea380dc8e15a2626.info
+    projectPath: Library\metadata\e2\e23646b088b53844ea380dc8e15a2626.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\e3\e3b0f810fdea84e40ab4ba20f256f7e8
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\e3\e3b0f810fdea84e40ab4ba20f256f7e8
+    projectPath: Library\metadata\e3\e3b0f810fdea84e40ab4ba20f256f7e8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\e4\e467bc885551b76499f61213b0fd275e
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\e4\e467bc885551b76499f61213b0fd275e
+    projectPath: Library\metadata\e4\e467bc885551b76499f61213b0fd275e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\e4\e467bc885551b76499f61213b0fd275e.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\e4\e467bc885551b76499f61213b0fd275e.info
+    projectPath: Library\metadata\e4\e467bc885551b76499f61213b0fd275e.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\e5\e546ebb1844c8b44a8bc1ae88da25bc6
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\e5\e546ebb1844c8b44a8bc1ae88da25bc6
+    projectPath: Library\metadata\e5\e546ebb1844c8b44a8bc1ae88da25bc6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\e5\e546ebb1844c8b44a8bc1ae88da25bc6.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\e5\e546ebb1844c8b44a8bc1ae88da25bc6.info
+    projectPath: Library\metadata\e5\e546ebb1844c8b44a8bc1ae88da25bc6.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\e6\e6ac1b1b8f0aeaa4797ef73622fd4b77
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\e6\e6ac1b1b8f0aeaa4797ef73622fd4b77
+    projectPath: Library\metadata\e6\e6ac1b1b8f0aeaa4797ef73622fd4b77
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\e6\e6ac1b1b8f0aeaa4797ef73622fd4b77.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\e6\e6ac1b1b8f0aeaa4797ef73622fd4b77.info
+    projectPath: Library\metadata\e6\e6ac1b1b8f0aeaa4797ef73622fd4b77.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\e9\e9ab5629a95667644a6e128deb360ca9
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\e9\e9ab5629a95667644a6e128deb360ca9
+    projectPath: Library\metadata\e9\e9ab5629a95667644a6e128deb360ca9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\ec\ec7c645d93308c04d8840982af12101e
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\ec\ec7c645d93308c04d8840982af12101e
+    projectPath: Library\metadata\ec\ec7c645d93308c04d8840982af12101e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\ed\ed041e68439749a69d0efa0e3d896c2e
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\ed\ed041e68439749a69d0efa0e3d896c2e
+    projectPath: Library\metadata\ed\ed041e68439749a69d0efa0e3d896c2e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\ee\ee148e281f3c41c5b4ff5f8a5afe5a6c
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\ee\ee148e281f3c41c5b4ff5f8a5afe5a6c
+    projectPath: Library\metadata\ee\ee148e281f3c41c5b4ff5f8a5afe5a6c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\f0\f00f153592cab7b4b840505ff00a97ec
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\f0\f00f153592cab7b4b840505ff00a97ec
+    projectPath: Library\metadata\f0\f00f153592cab7b4b840505ff00a97ec
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\f0\f00f153592cab7b4b840505ff00a97ec.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\f0\f00f153592cab7b4b840505ff00a97ec.info
+    projectPath: Library\metadata\f0\f00f153592cab7b4b840505ff00a97ec.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\f0\f026f2b458352c1428f2896b4930de05
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\f0\f026f2b458352c1428f2896b4930de05
+    projectPath: Library\metadata\f0\f026f2b458352c1428f2896b4930de05
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\f0\f0c20d69027f9db4fb0af65e5afb3933
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\f0\f0c20d69027f9db4fb0af65e5afb3933
+    projectPath: Library\metadata\f0\f0c20d69027f9db4fb0af65e5afb3933
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\f3\f394fff990dcd3e449139fc23571520a
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\f3\f394fff990dcd3e449139fc23571520a
+    projectPath: Library\metadata\f3\f394fff990dcd3e449139fc23571520a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\f3\f394fff990dcd3e449139fc23571520a.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\f3\f394fff990dcd3e449139fc23571520a.info
+    projectPath: Library\metadata\f3\f394fff990dcd3e449139fc23571520a.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\f3\f3c0e0c34cf27924db587aeafc5aaafb
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\f3\f3c0e0c34cf27924db587aeafc5aaafb
+    projectPath: Library\metadata\f3\f3c0e0c34cf27924db587aeafc5aaafb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\f3\f3c0e0c34cf27924db587aeafc5aaafb.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\f3\f3c0e0c34cf27924db587aeafc5aaafb.info
+    projectPath: Library\metadata\f3\f3c0e0c34cf27924db587aeafc5aaafb.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\f5\f5878c928245f2d419692e64edd7772c
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\f5\f5878c928245f2d419692e64edd7772c
+    projectPath: Library\metadata\f5\f5878c928245f2d419692e64edd7772c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f
+    projectPath: Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\f9\f99a0771ae0124b439193a95eac36e56
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\f9\f99a0771ae0124b439193a95eac36e56
+    projectPath: Library\metadata\f9\f99a0771ae0124b439193a95eac36e56
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\fa\fa6bd40a216346b783a4cce741d277a5
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\fa\fa6bd40a216346b783a4cce741d277a5
+    projectPath: Library\metadata\fa\fa6bd40a216346b783a4cce741d277a5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\fb\fb5730e24283d0c489e5c7d0bee023d9
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\fb\fb5730e24283d0c489e5c7d0bee023d9
+    projectPath: Library\metadata\fb\fb5730e24283d0c489e5c7d0bee023d9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache.db
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache.db
+    projectPath: Library\ShaderCache.db
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\0\019ecbbf9c5157198f71ee8d804431fa.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\0\019ecbbf9c5157198f71ee8d804431fa.bin
+    projectPath: Library\ShaderCache\0\019ecbbf9c5157198f71ee8d804431fa.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\02a5baa4372f7e1110dd131369d6fa5a.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\0\02a5baa4372f7e1110dd131369d6fa5a.bin
+    projectPath: Library\ShaderCache\0\02a5baa4372f7e1110dd131369d6fa5a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\02abaa8977d3d75fc6d0913a680cc5d9.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\0\02abaa8977d3d75fc6d0913a680cc5d9.bin
+    projectPath: Library\ShaderCache\0\02abaa8977d3d75fc6d0913a680cc5d9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\02fac9a43e3a251fa8499166f2953620.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\0\02fac9a43e3a251fa8499166f2953620.bin
+    projectPath: Library\ShaderCache\0\02fac9a43e3a251fa8499166f2953620.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\05d5a85b8d977b5925a3e6b10850d086.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\0\05d5a85b8d977b5925a3e6b10850d086.bin
+    projectPath: Library\ShaderCache\0\05d5a85b8d977b5925a3e6b10850d086.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\07900202bb39f6c16e7c5b4a6c1434b9.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\0\07900202bb39f6c16e7c5b4a6c1434b9.bin
+    projectPath: Library\ShaderCache\0\07900202bb39f6c16e7c5b4a6c1434b9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\08a31d97838c356d361de8f0e927def4.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\0\08a31d97838c356d361de8f0e927def4.bin
+    projectPath: Library\ShaderCache\0\08a31d97838c356d361de8f0e927def4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0c202803f4130f181eed576857d8b4ce.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\0\0c202803f4130f181eed576857d8b4ce.bin
+    projectPath: Library\ShaderCache\0\0c202803f4130f181eed576857d8b4ce.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0c2bac3ce77c3d4ef4921e7c16d18249.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\0\0c2bac3ce77c3d4ef4921e7c16d18249.bin
+    projectPath: Library\ShaderCache\0\0c2bac3ce77c3d4ef4921e7c16d18249.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0c802009e556975cc210e292ce860dc7.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\0\0c802009e556975cc210e292ce860dc7.bin
+    projectPath: Library\ShaderCache\0\0c802009e556975cc210e292ce860dc7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\12f3dfa022f5d7decdf9a9d693231097.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\1\12f3dfa022f5d7decdf9a9d693231097.bin
+    projectPath: Library\ShaderCache\1\12f3dfa022f5d7decdf9a9d693231097.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1656c5e1c27822320dbfbde7546c8d83.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\1\1656c5e1c27822320dbfbde7546c8d83.bin
+    projectPath: Library\ShaderCache\1\1656c5e1c27822320dbfbde7546c8d83.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\177f3d415c8ec0a897c9340b0c44f217.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\1\177f3d415c8ec0a897c9340b0c44f217.bin
+    projectPath: Library\ShaderCache\1\177f3d415c8ec0a897c9340b0c44f217.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1b5417fafcdff9ac28755a81c878c600.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\1\1b5417fafcdff9ac28755a81c878c600.bin
+    projectPath: Library\ShaderCache\1\1b5417fafcdff9ac28755a81c878c600.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1f4edaf83cce2e15de2218e45a2a8405.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\1\1f4edaf83cce2e15de2218e45a2a8405.bin
+    projectPath: Library\ShaderCache\1\1f4edaf83cce2e15de2218e45a2a8405.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2051ca8b5b42a943a4fc47eefa646593.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\2\2051ca8b5b42a943a4fc47eefa646593.bin
+    projectPath: Library\ShaderCache\2\2051ca8b5b42a943a4fc47eefa646593.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2473c9a02b0da5ee6428f85efdb9c659.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\2\2473c9a02b0da5ee6428f85efdb9c659.bin
+    projectPath: Library\ShaderCache\2\2473c9a02b0da5ee6428f85efdb9c659.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\24a9237836ab675e6a713a30531b1ad3.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\2\24a9237836ab675e6a713a30531b1ad3.bin
+    projectPath: Library\ShaderCache\2\24a9237836ab675e6a713a30531b1ad3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\254aeab4f7b00a337a8adf2f1beee035.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\2\254aeab4f7b00a337a8adf2f1beee035.bin
+    projectPath: Library\ShaderCache\2\254aeab4f7b00a337a8adf2f1beee035.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\267dc998b8d6cfb7bd325b07d3ef1097.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\2\267dc998b8d6cfb7bd325b07d3ef1097.bin
+    projectPath: Library\ShaderCache\2\267dc998b8d6cfb7bd325b07d3ef1097.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\27c6810d378ebf26ca15c94fa609df92.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\2\27c6810d378ebf26ca15c94fa609df92.bin
+    projectPath: Library\ShaderCache\2\27c6810d378ebf26ca15c94fa609df92.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\28edd5250365c9a1234f7d5147e5c51e.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\2\28edd5250365c9a1234f7d5147e5c51e.bin
+    projectPath: Library\ShaderCache\2\28edd5250365c9a1234f7d5147e5c51e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\291f05c253deb3a82c95afc2d7581ee4.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\2\291f05c253deb3a82c95afc2d7581ee4.bin
+    projectPath: Library\ShaderCache\2\291f05c253deb3a82c95afc2d7581ee4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\293d2c09c8efffda9170624aeb41a483.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\2\293d2c09c8efffda9170624aeb41a483.bin
+    projectPath: Library\ShaderCache\2\293d2c09c8efffda9170624aeb41a483.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2aaf3dad2c5f269b5536b5919eeec06a.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\2\2aaf3dad2c5f269b5536b5919eeec06a.bin
+    projectPath: Library\ShaderCache\2\2aaf3dad2c5f269b5536b5919eeec06a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2b32324f72284b91fc8ceb136d3ec898.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\2\2b32324f72284b91fc8ceb136d3ec898.bin
+    projectPath: Library\ShaderCache\2\2b32324f72284b91fc8ceb136d3ec898.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2c041191bdbe89e195aa21ae7d225a8b.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\2\2c041191bdbe89e195aa21ae7d225a8b.bin
+    projectPath: Library\ShaderCache\2\2c041191bdbe89e195aa21ae7d225a8b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2c15a9dc7d34ca8d63aa5caac7ec394f.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\2\2c15a9dc7d34ca8d63aa5caac7ec394f.bin
+    projectPath: Library\ShaderCache\2\2c15a9dc7d34ca8d63aa5caac7ec394f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2cefa8021ca0adc303659722a01f9314.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\2\2cefa8021ca0adc303659722a01f9314.bin
+    projectPath: Library\ShaderCache\2\2cefa8021ca0adc303659722a01f9314.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2d2618743a6dabfb9eb67cdc3d493c14.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\2\2d2618743a6dabfb9eb67cdc3d493c14.bin
+    projectPath: Library\ShaderCache\2\2d2618743a6dabfb9eb67cdc3d493c14.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2e0804f0687cfc8f3810735c2b9b8732.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\2\2e0804f0687cfc8f3810735c2b9b8732.bin
+    projectPath: Library\ShaderCache\2\2e0804f0687cfc8f3810735c2b9b8732.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2f2661848685d14457acfad4da6edcd2.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\2\2f2661848685d14457acfad4da6edcd2.bin
+    projectPath: Library\ShaderCache\2\2f2661848685d14457acfad4da6edcd2.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\304435134b9961b13b3673e29be264d4.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\3\304435134b9961b13b3673e29be264d4.bin
+    projectPath: Library\ShaderCache\3\304435134b9961b13b3673e29be264d4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\307b0f0685c5f4538b26c97da79c770c.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\3\307b0f0685c5f4538b26c97da79c770c.bin
+    projectPath: Library\ShaderCache\3\307b0f0685c5f4538b26c97da79c770c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\321ee39bb820c1c517693e1baa2e3e5b.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\3\321ee39bb820c1c517693e1baa2e3e5b.bin
+    projectPath: Library\ShaderCache\3\321ee39bb820c1c517693e1baa2e3e5b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3267ee4164658836583130d545dcf054.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\3\3267ee4164658836583130d545dcf054.bin
+    projectPath: Library\ShaderCache\3\3267ee4164658836583130d545dcf054.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\37dae0a86f2bc5c61f46b098ab42d564.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\3\37dae0a86f2bc5c61f46b098ab42d564.bin
+    projectPath: Library\ShaderCache\3\37dae0a86f2bc5c61f46b098ab42d564.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3886242a37e2b000f853ec3fe8d0d23b.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\3\3886242a37e2b000f853ec3fe8d0d23b.bin
+    projectPath: Library\ShaderCache\3\3886242a37e2b000f853ec3fe8d0d23b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3bb61f32ecaac1ae41375c420fefd161.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\3\3bb61f32ecaac1ae41375c420fefd161.bin
+    projectPath: Library\ShaderCache\3\3bb61f32ecaac1ae41375c420fefd161.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3e045a00d9c9b03ec6949579048fd4fe.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\3\3e045a00d9c9b03ec6949579048fd4fe.bin
+    projectPath: Library\ShaderCache\3\3e045a00d9c9b03ec6949579048fd4fe.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3e47c0f71ce0b1cdbca2789151ecb61b.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\3\3e47c0f71ce0b1cdbca2789151ecb61b.bin
+    projectPath: Library\ShaderCache\3\3e47c0f71ce0b1cdbca2789151ecb61b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3eb41ba0279c517036829c28ae9ea10a.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\3\3eb41ba0279c517036829c28ae9ea10a.bin
+    projectPath: Library\ShaderCache\3\3eb41ba0279c517036829c28ae9ea10a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3eb71a689c605d7b5013e39ff0236997.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\3\3eb71a689c605d7b5013e39ff0236997.bin
+    projectPath: Library\ShaderCache\3\3eb71a689c605d7b5013e39ff0236997.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3f149069b1e3b7b90c9a51bf9c51c472.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\3\3f149069b1e3b7b90c9a51bf9c51c472.bin
+    projectPath: Library\ShaderCache\3\3f149069b1e3b7b90c9a51bf9c51c472.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\45d115e0e75a5d4022ffd89c6b84d2f4.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\4\45d115e0e75a5d4022ffd89c6b84d2f4.bin
+    projectPath: Library\ShaderCache\4\45d115e0e75a5d4022ffd89c6b84d2f4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\465aa25f15c2afd0e6cc1e8e81915cd0.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\4\465aa25f15c2afd0e6cc1e8e81915cd0.bin
+    projectPath: Library\ShaderCache\4\465aa25f15c2afd0e6cc1e8e81915cd0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\48bdb838e1afdb2a2764466b13d47abf.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\4\48bdb838e1afdb2a2764466b13d47abf.bin
+    projectPath: Library\ShaderCache\4\48bdb838e1afdb2a2764466b13d47abf.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\48fa7a208deee37474d5780150e3c2c8.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\4\48fa7a208deee37474d5780150e3c2c8.bin
+    projectPath: Library\ShaderCache\4\48fa7a208deee37474d5780150e3c2c8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\4a09d8c971baf958d538546e0fb9d805.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\4\4a09d8c971baf958d538546e0fb9d805.bin
+    projectPath: Library\ShaderCache\4\4a09d8c971baf958d538546e0fb9d805.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\4f566ec15eb20e7f77ff2cb3e9d608fe.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\4\4f566ec15eb20e7f77ff2cb3e9d608fe.bin
+    projectPath: Library\ShaderCache\4\4f566ec15eb20e7f77ff2cb3e9d608fe.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\4f64568542b8134d7cf37bace3cef11f.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\4\4f64568542b8134d7cf37bace3cef11f.bin
+    projectPath: Library\ShaderCache\4\4f64568542b8134d7cf37bace3cef11f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\53497ab1e0974a42438d3a222870d37f.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\5\53497ab1e0974a42438d3a222870d37f.bin
+    projectPath: Library\ShaderCache\5\53497ab1e0974a42438d3a222870d37f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\5778d1cd27a31461422fd34bad64739e.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\5\5778d1cd27a31461422fd34bad64739e.bin
+    projectPath: Library\ShaderCache\5\5778d1cd27a31461422fd34bad64739e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\5842cf9942c59e13fb71e2e161b7f876.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\5\5842cf9942c59e13fb71e2e161b7f876.bin
+    projectPath: Library\ShaderCache\5\5842cf9942c59e13fb71e2e161b7f876.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\58954cad7c3a9320fdf06e7881633040.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\5\58954cad7c3a9320fdf06e7881633040.bin
+    projectPath: Library\ShaderCache\5\58954cad7c3a9320fdf06e7881633040.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\5d7320ec10f7c6a1fef96084dfc735b5.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\5\5d7320ec10f7c6a1fef96084dfc735b5.bin
+    projectPath: Library\ShaderCache\5\5d7320ec10f7c6a1fef96084dfc735b5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\5e9d089ffb880abd3abb22651b6914d6.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\5\5e9d089ffb880abd3abb22651b6914d6.bin
+    projectPath: Library\ShaderCache\5\5e9d089ffb880abd3abb22651b6914d6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\610efc09eca3ef0dc0d840602caea3ad.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\6\610efc09eca3ef0dc0d840602caea3ad.bin
+    projectPath: Library\ShaderCache\6\610efc09eca3ef0dc0d840602caea3ad.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\61dbe57ee328e34121713c2839855e18.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\6\61dbe57ee328e34121713c2839855e18.bin
+    projectPath: Library\ShaderCache\6\61dbe57ee328e34121713c2839855e18.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\651c09fe4608c2e62ad2c0d7ffee26d4.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\6\651c09fe4608c2e62ad2c0d7ffee26d4.bin
+    projectPath: Library\ShaderCache\6\651c09fe4608c2e62ad2c0d7ffee26d4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\6cb3907e599e7e558e68246fdcb551df.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\6\6cb3907e599e7e558e68246fdcb551df.bin
+    projectPath: Library\ShaderCache\6\6cb3907e599e7e558e68246fdcb551df.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\6f81958f2ae6c185fbd26c70cfcb6b3e.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\6\6f81958f2ae6c185fbd26c70cfcb6b3e.bin
+    projectPath: Library\ShaderCache\6\6f81958f2ae6c185fbd26c70cfcb6b3e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\734d516fbb56ea863f4a38ab6d148c84.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\7\734d516fbb56ea863f4a38ab6d148c84.bin
+    projectPath: Library\ShaderCache\7\734d516fbb56ea863f4a38ab6d148c84.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\7533ae4b8c0c06f70016e5b908a26dbd.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\7\7533ae4b8c0c06f70016e5b908a26dbd.bin
+    projectPath: Library\ShaderCache\7\7533ae4b8c0c06f70016e5b908a26dbd.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\7cfff0929d18fb24ab3bc23957dabc87.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\7\7cfff0929d18fb24ab3bc23957dabc87.bin
+    projectPath: Library\ShaderCache\7\7cfff0929d18fb24ab3bc23957dabc87.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\7f21c0f4103184762347b8ff733876b5.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\7\7f21c0f4103184762347b8ff733876b5.bin
+    projectPath: Library\ShaderCache\7\7f21c0f4103184762347b8ff733876b5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\7f71f67cb9791f744409aa03029852b6.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\7\7f71f67cb9791f744409aa03029852b6.bin
+    projectPath: Library\ShaderCache\7\7f71f67cb9791f744409aa03029852b6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\804e60a62ee97cdb1cc94a4cf7473340.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\8\804e60a62ee97cdb1cc94a4cf7473340.bin
+    projectPath: Library\ShaderCache\8\804e60a62ee97cdb1cc94a4cf7473340.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\88716a23233d9e34dee12d755769dfda.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\8\88716a23233d9e34dee12d755769dfda.bin
+    projectPath: Library\ShaderCache\8\88716a23233d9e34dee12d755769dfda.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\91fb80e6f86cb3ec007128df0bc34113.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\9\91fb80e6f86cb3ec007128df0bc34113.bin
+    projectPath: Library\ShaderCache\9\91fb80e6f86cb3ec007128df0bc34113.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\944f9f9f66f3e5d3acd9561169e3c594.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\9\944f9f9f66f3e5d3acd9561169e3c594.bin
+    projectPath: Library\ShaderCache\9\944f9f9f66f3e5d3acd9561169e3c594.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\95974fa63f3db30a4c199f719b066d3c.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\9\95974fa63f3db30a4c199f719b066d3c.bin
+    projectPath: Library\ShaderCache\9\95974fa63f3db30a4c199f719b066d3c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9703cacd42315ff7e2af130bbddb5990.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\9\9703cacd42315ff7e2af130bbddb5990.bin
+    projectPath: Library\ShaderCache\9\9703cacd42315ff7e2af130bbddb5990.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\977bd3ed3419c210a84392f4882a9e89.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\9\977bd3ed3419c210a84392f4882a9e89.bin
+    projectPath: Library\ShaderCache\9\977bd3ed3419c210a84392f4882a9e89.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\98d4439cc0e8ee7554a2cdcb59565b5c.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\9\98d4439cc0e8ee7554a2cdcb59565b5c.bin
+    projectPath: Library\ShaderCache\9\98d4439cc0e8ee7554a2cdcb59565b5c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9907672686bf33047253647dbcbb690b.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\9\9907672686bf33047253647dbcbb690b.bin
+    projectPath: Library\ShaderCache\9\9907672686bf33047253647dbcbb690b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a16128f40dfc3d008d1d1a587b49d7cd.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\a\a16128f40dfc3d008d1d1a587b49d7cd.bin
+    projectPath: Library\ShaderCache\a\a16128f40dfc3d008d1d1a587b49d7cd.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a2a667f37445eb2183a088e354031b7c.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\a\a2a667f37445eb2183a088e354031b7c.bin
+    projectPath: Library\ShaderCache\a\a2a667f37445eb2183a088e354031b7c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a30ca58c3edab9935d52893674950d84.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\a\a30ca58c3edab9935d52893674950d84.bin
+    projectPath: Library\ShaderCache\a\a30ca58c3edab9935d52893674950d84.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a47fddd6769e8f913f70471a48f64e2e.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\a\a47fddd6769e8f913f70471a48f64e2e.bin
+    projectPath: Library\ShaderCache\a\a47fddd6769e8f913f70471a48f64e2e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a75ab50e35655fbb0daad91ee8edeaa5.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\a\a75ab50e35655fbb0daad91ee8edeaa5.bin
+    projectPath: Library\ShaderCache\a\a75ab50e35655fbb0daad91ee8edeaa5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a92beed0086c3e4bef81d7259e2edd66.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\a\a92beed0086c3e4bef81d7259e2edd66.bin
+    projectPath: Library\ShaderCache\a\a92beed0086c3e4bef81d7259e2edd66.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\aa13ce828e7947f2eb7a136b3aaacf29.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\a\aa13ce828e7947f2eb7a136b3aaacf29.bin
+    projectPath: Library\ShaderCache\a\aa13ce828e7947f2eb7a136b3aaacf29.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\aae106ad853ca9f689b5ad82493d0ea9.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\a\aae106ad853ca9f689b5ad82493d0ea9.bin
+    projectPath: Library\ShaderCache\a\aae106ad853ca9f689b5ad82493d0ea9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\adf3319c699fbebb0bbbad90f037d50d.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\a\adf3319c699fbebb0bbbad90f037d50d.bin
+    projectPath: Library\ShaderCache\a\adf3319c699fbebb0bbbad90f037d50d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b0419e7b75c949155020ba2977442e26.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\b\b0419e7b75c949155020ba2977442e26.bin
+    projectPath: Library\ShaderCache\b\b0419e7b75c949155020ba2977442e26.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b628913e684f44bd74ee97d5059fef06.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\b\b628913e684f44bd74ee97d5059fef06.bin
+    projectPath: Library\ShaderCache\b\b628913e684f44bd74ee97d5059fef06.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b74cb380e15f4b7c0745c60ab0b80d0d.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\b\b74cb380e15f4b7c0745c60ab0b80d0d.bin
+    projectPath: Library\ShaderCache\b\b74cb380e15f4b7c0745c60ab0b80d0d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b81d38bf45fe594e4ef862fd4787249f.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\b\b81d38bf45fe594e4ef862fd4787249f.bin
+    projectPath: Library\ShaderCache\b\b81d38bf45fe594e4ef862fd4787249f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b861647f7ac142d7837817e885ce9759.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\b\b861647f7ac142d7837817e885ce9759.bin
+    projectPath: Library\ShaderCache\b\b861647f7ac142d7837817e885ce9759.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b8fdf329cf2efd017280b6c8bf43b118.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\b\b8fdf329cf2efd017280b6c8bf43b118.bin
+    projectPath: Library\ShaderCache\b\b8fdf329cf2efd017280b6c8bf43b118.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\ba0fb500dfce5dca0d674726c99f7d16.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\b\ba0fb500dfce5dca0d674726c99f7d16.bin
+    projectPath: Library\ShaderCache\b\ba0fb500dfce5dca0d674726c99f7d16.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\bb282e290da22ab6d9faf689c9c5fb17.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\b\bb282e290da22ab6d9faf689c9c5fb17.bin
+    projectPath: Library\ShaderCache\b\bb282e290da22ab6d9faf689c9c5fb17.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\bc0eb13a9e257e3e5915e6118029c370.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\b\bc0eb13a9e257e3e5915e6118029c370.bin
+    projectPath: Library\ShaderCache\b\bc0eb13a9e257e3e5915e6118029c370.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\be1a93f219ea7aad8ce3651bbc2e5b10.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\b\be1a93f219ea7aad8ce3651bbc2e5b10.bin
+    projectPath: Library\ShaderCache\b\be1a93f219ea7aad8ce3651bbc2e5b10.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c29bdc8af37dfe6de4f45c8cdfe25077.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\c\c29bdc8af37dfe6de4f45c8cdfe25077.bin
+    projectPath: Library\ShaderCache\c\c29bdc8af37dfe6de4f45c8cdfe25077.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c347638dfdbc32131d41ea5d086cf441.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\c\c347638dfdbc32131d41ea5d086cf441.bin
+    projectPath: Library\ShaderCache\c\c347638dfdbc32131d41ea5d086cf441.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c4062a452c903afc3ae3822f6c992d41.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\c\c4062a452c903afc3ae3822f6c992d41.bin
+    projectPath: Library\ShaderCache\c\c4062a452c903afc3ae3822f6c992d41.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c616499b8f145f83bf3a98bb8e81ba19.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\c\c616499b8f145f83bf3a98bb8e81ba19.bin
+    projectPath: Library\ShaderCache\c\c616499b8f145f83bf3a98bb8e81ba19.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c6863ba6299b4a0276c51e3a8b5fb5ef.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\c\c6863ba6299b4a0276c51e3a8b5fb5ef.bin
+    projectPath: Library\ShaderCache\c\c6863ba6299b4a0276c51e3a8b5fb5ef.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\cba3f6234f93d450fca2a9ba08eba99c.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\c\cba3f6234f93d450fca2a9ba08eba99c.bin
+    projectPath: Library\ShaderCache\c\cba3f6234f93d450fca2a9ba08eba99c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\cc529e67a7e8d304430b3a81ef0d41dc.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\c\cc529e67a7e8d304430b3a81ef0d41dc.bin
+    projectPath: Library\ShaderCache\c\cc529e67a7e8d304430b3a81ef0d41dc.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\cc6e21fc47a846d3f10c0fb6ae58b039.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\c\cc6e21fc47a846d3f10c0fb6ae58b039.bin
+    projectPath: Library\ShaderCache\c\cc6e21fc47a846d3f10c0fb6ae58b039.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\ce1686e74cc92a6d9ba67ce27978877f.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\c\ce1686e74cc92a6d9ba67ce27978877f.bin
+    projectPath: Library\ShaderCache\c\ce1686e74cc92a6d9ba67ce27978877f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\cfa2b128cc596fd931878a8626f3cf3f.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\c\cfa2b128cc596fd931878a8626f3cf3f.bin
+    projectPath: Library\ShaderCache\c\cfa2b128cc596fd931878a8626f3cf3f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d46092457fc813dad36b2d28cf9e0262.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\d\d46092457fc813dad36b2d28cf9e0262.bin
+    projectPath: Library\ShaderCache\d\d46092457fc813dad36b2d28cf9e0262.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d58666bf009001f93b7ae89e9ce9a6a0.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\d\d58666bf009001f93b7ae89e9ce9a6a0.bin
+    projectPath: Library\ShaderCache\d\d58666bf009001f93b7ae89e9ce9a6a0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d810e061f139c6e3542f8a8907b49073.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\d\d810e061f139c6e3542f8a8907b49073.bin
+    projectPath: Library\ShaderCache\d\d810e061f139c6e3542f8a8907b49073.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d87e7149e51a4d81f500fd1e2794f730.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\d\d87e7149e51a4d81f500fd1e2794f730.bin
+    projectPath: Library\ShaderCache\d\d87e7149e51a4d81f500fd1e2794f730.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\db57763b68fcfa00c8d0ecc0275c1379.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\d\db57763b68fcfa00c8d0ecc0275c1379.bin
+    projectPath: Library\ShaderCache\d\db57763b68fcfa00c8d0ecc0275c1379.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\db581be4b8d7fe05c295abbb7c172d06.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\d\db581be4b8d7fe05c295abbb7c172d06.bin
+    projectPath: Library\ShaderCache\d\db581be4b8d7fe05c295abbb7c172d06.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e003a46977cec8f397e8356c14f8741b.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\e\e003a46977cec8f397e8356c14f8741b.bin
+    projectPath: Library\ShaderCache\e\e003a46977cec8f397e8356c14f8741b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e107b0a92c90d596a29277a17cffb736.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\e\e107b0a92c90d596a29277a17cffb736.bin
+    projectPath: Library\ShaderCache\e\e107b0a92c90d596a29277a17cffb736.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e2b52be9e9da3f3dc5a2f536d46f46c0.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\e\e2b52be9e9da3f3dc5a2f536d46f46c0.bin
+    projectPath: Library\ShaderCache\e\e2b52be9e9da3f3dc5a2f536d46f46c0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e41c600a341355c7ebe82f9e98dc5b32.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\e\e41c600a341355c7ebe82f9e98dc5b32.bin
+    projectPath: Library\ShaderCache\e\e41c600a341355c7ebe82f9e98dc5b32.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e58fcbd48bcaf1c4fd4a916957357eb5.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\e\e58fcbd48bcaf1c4fd4a916957357eb5.bin
+    projectPath: Library\ShaderCache\e\e58fcbd48bcaf1c4fd4a916957357eb5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e8df14fa6c1198f8c1b3a1684f601b71.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\e\e8df14fa6c1198f8c1b3a1684f601b71.bin
+    projectPath: Library\ShaderCache\e\e8df14fa6c1198f8c1b3a1684f601b71.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\ea6392f9298b7a5dd970c08948f695e9.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\e\ea6392f9298b7a5dd970c08948f695e9.bin
+    projectPath: Library\ShaderCache\e\ea6392f9298b7a5dd970c08948f695e9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\ebd3ff07d3129d78842dc50ba8f0d8ce.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\e\ebd3ff07d3129d78842dc50ba8f0d8ce.bin
+    projectPath: Library\ShaderCache\e\ebd3ff07d3129d78842dc50ba8f0d8ce.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\ee6b1a9d5bd1906c427889ecf1c68aca.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\e\ee6b1a9d5bd1906c427889ecf1c68aca.bin
+    projectPath: Library\ShaderCache\e\ee6b1a9d5bd1906c427889ecf1c68aca.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\eff15c7a6ec7e65852d7ac058f6b50bc.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\e\eff15c7a6ec7e65852d7ac058f6b50bc.bin
+    projectPath: Library\ShaderCache\e\eff15c7a6ec7e65852d7ac058f6b50bc.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\f1546eb13579e223b6e253a21fd38866.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\f\f1546eb13579e223b6e253a21fd38866.bin
+    projectPath: Library\ShaderCache\f\f1546eb13579e223b6e253a21fd38866.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\f381e94394fc8c7265a8d2b125c6ed48.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\f\f381e94394fc8c7265a8d2b125c6ed48.bin
+    projectPath: Library\ShaderCache\f\f381e94394fc8c7265a8d2b125c6ed48.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\f3fc70218fb929136dcf2a31dfd824e2.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\f\f3fc70218fb929136dcf2a31dfd824e2.bin
+    projectPath: Library\ShaderCache\f\f3fc70218fb929136dcf2a31dfd824e2.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\f4f7ed097da0972129f301725de2f464.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\f\f4f7ed097da0972129f301725de2f464.bin
+    projectPath: Library\ShaderCache\f\f4f7ed097da0972129f301725de2f464.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\f6c2bd36ef1cb8aa110d81c2c7ecb264.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\f\f6c2bd36ef1cb8aa110d81c2c7ecb264.bin
+    projectPath: Library\ShaderCache\f\f6c2bd36ef1cb8aa110d81c2c7ecb264.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\f9bd3768538e77f542aaa9c1d3238a0a.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\f\f9bd3768538e77f542aaa9c1d3238a0a.bin
+    projectPath: Library\ShaderCache\f\f9bd3768538e77f542aaa9c1d3238a0a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\fa9e54295bb938111c77e1a658008d5a.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\f\fa9e54295bb938111c77e1a658008d5a.bin
+    projectPath: Library\ShaderCache\f\fa9e54295bb938111c77e1a658008d5a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\fc1667c5ef55dfd236fdc1e49e987c45.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\f\fc1667c5ef55dfd236fdc1e49e987c45.bin
+    projectPath: Library\ShaderCache\f\fc1667c5ef55dfd236fdc1e49e987c45.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\fc1e6fd01be1ec77c086c25ae878c51d.bin
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\ShaderCache\f\fc1e6fd01be1ec77c086c25ae878c51d.bin
+    projectPath: Library\ShaderCache\f\fc1e6fd01be1ec77c086c25ae878c51d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\Hierarchy\c53049-mainStage.json
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\StateCache\Hierarchy\c53049-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\c53049-mainStage.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\StateCache\SceneView\08ae63-mainStage.json
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\StateCache\SceneView\08ae63-mainStage.json
+    projectPath: Library\StateCache\SceneView\08ae63-mainStage.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\StateCache\SceneView\c6567f-mainStage.json
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Library\StateCache\SceneView\c6567f-mainStage.json
+    projectPath: Library\StateCache\SceneView\c6567f-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\ProjectSettings.asset
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\UnityConnectSettings.asset
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\ProjectSettings\UnityConnectSettings.asset
+    projectPath: ProjectSettings\UnityConnectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\ProcessJobs\2992039c52923dad903a8c0db934f209.bakert
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\ProcessJobs\2992039c52923dad903a8c0db934f209.bakert
+    projectPath: Temp\ProcessJobs\2992039c52923dad903a8c0db934f209.bakert
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    projectPath: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityLockfile
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-038d22f47eaa1bf4081df97b7c0789d6
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-038d22f47eaa1bf4081df97b7c0789d6
+    projectPath: Temp\UnityTempFile-038d22f47eaa1bf4081df97b7c0789d6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0e2795221135de64a99352ed0d9b0cef
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-0e2795221135de64a99352ed0d9b0cef
+    projectPath: Temp\UnityTempFile-0e2795221135de64a99352ed0d9b0cef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0e814464f067ef14c91917c08526fa8e
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-0e814464f067ef14c91917c08526fa8e
+    projectPath: Temp\UnityTempFile-0e814464f067ef14c91917c08526fa8e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2150ea5464f054b4a86810957782b69e
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-2150ea5464f054b4a86810957782b69e
+    projectPath: Temp\UnityTempFile-2150ea5464f054b4a86810957782b69e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2c5f9553725ae7e42a6cb0d162dda6a0
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-2c5f9553725ae7e42a6cb0d162dda6a0
+    projectPath: Temp\UnityTempFile-2c5f9553725ae7e42a6cb0d162dda6a0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2c67e456bb0063b4eaf737e09949a874
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-2c67e456bb0063b4eaf737e09949a874
+    projectPath: Temp\UnityTempFile-2c67e456bb0063b4eaf737e09949a874
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-33b2215c66c2b3b4abefc23e324cf6dd
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-33b2215c66c2b3b4abefc23e324cf6dd
+    projectPath: Temp\UnityTempFile-33b2215c66c2b3b4abefc23e324cf6dd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-371ccba77cd997e4d91f4c6062dd46f9
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-371ccba77cd997e4d91f4c6062dd46f9
+    projectPath: Temp\UnityTempFile-371ccba77cd997e4d91f4c6062dd46f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3af2f494e7422dc4fb69a5014d7065a2
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-3af2f494e7422dc4fb69a5014d7065a2
+    projectPath: Temp\UnityTempFile-3af2f494e7422dc4fb69a5014d7065a2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-42bd76b5481012e47a10d6794c5dbb88
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-42bd76b5481012e47a10d6794c5dbb88
+    projectPath: Temp\UnityTempFile-42bd76b5481012e47a10d6794c5dbb88
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-476c08472bb0a2549ba0377e75c3ec6c
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-476c08472bb0a2549ba0377e75c3ec6c
+    projectPath: Temp\UnityTempFile-476c08472bb0a2549ba0377e75c3ec6c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4e068d6b39e1a004ea66143db578ec47
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-4e068d6b39e1a004ea66143db578ec47
+    projectPath: Temp\UnityTempFile-4e068d6b39e1a004ea66143db578ec47
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-54dce238652c6744e935839e025978af
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-54dce238652c6744e935839e025978af
+    projectPath: Temp\UnityTempFile-54dce238652c6744e935839e025978af
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5bd138349ee3e2446822923678715a22
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-5bd138349ee3e2446822923678715a22
+    projectPath: Temp\UnityTempFile-5bd138349ee3e2446822923678715a22
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-60c9b772c8b372d439745c441f36bb81
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-60c9b772c8b372d439745c441f36bb81
+    projectPath: Temp\UnityTempFile-60c9b772c8b372d439745c441f36bb81
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-66e84e86c7c500b48843d8ff727dcde9
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-66e84e86c7c500b48843d8ff727dcde9
+    projectPath: Temp\UnityTempFile-66e84e86c7c500b48843d8ff727dcde9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-729f46879558654489f5fa9114a6b058
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-729f46879558654489f5fa9114a6b058
+    projectPath: Temp\UnityTempFile-729f46879558654489f5fa9114a6b058
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-75a51dce5c834334cb9c8385712e353f
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-75a51dce5c834334cb9c8385712e353f
+    projectPath: Temp\UnityTempFile-75a51dce5c834334cb9c8385712e353f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-771be423b8a72b342bc4bf0a7a0164a5
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-771be423b8a72b342bc4bf0a7a0164a5
+    projectPath: Temp\UnityTempFile-771be423b8a72b342bc4bf0a7a0164a5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7bd29d0d2356f0343869e73c2af3ee68
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-7bd29d0d2356f0343869e73c2af3ee68
+    projectPath: Temp\UnityTempFile-7bd29d0d2356f0343869e73c2af3ee68
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7d8796feb42324846b241ac7720e997d
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-7d8796feb42324846b241ac7720e997d
+    projectPath: Temp\UnityTempFile-7d8796feb42324846b241ac7720e997d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7dfac66afbb51d141a1e5954437ba4f4
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-7dfac66afbb51d141a1e5954437ba4f4
+    projectPath: Temp\UnityTempFile-7dfac66afbb51d141a1e5954437ba4f4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7efdaf6f313fa6a4fbd4b83c84eaf1c7
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-7efdaf6f313fa6a4fbd4b83c84eaf1c7
+    projectPath: Temp\UnityTempFile-7efdaf6f313fa6a4fbd4b83c84eaf1c7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-88674236856f45d408d7da2aa2c97710
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-88674236856f45d408d7da2aa2c97710
+    projectPath: Temp\UnityTempFile-88674236856f45d408d7da2aa2c97710
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8d2e6b7af758ce44dbfff2cd439d1fa0
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-8d2e6b7af758ce44dbfff2cd439d1fa0
+    projectPath: Temp\UnityTempFile-8d2e6b7af758ce44dbfff2cd439d1fa0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-908d4b6365179124c8fb24b40677b6ed
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-908d4b6365179124c8fb24b40677b6ed
+    projectPath: Temp\UnityTempFile-908d4b6365179124c8fb24b40677b6ed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-971aa9ee9b8abe743b039306c490a218
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-971aa9ee9b8abe743b039306c490a218
+    projectPath: Temp\UnityTempFile-971aa9ee9b8abe743b039306c490a218
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9ccf14c0bb28758459489238a1754b3c
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-9ccf14c0bb28758459489238a1754b3c
+    projectPath: Temp\UnityTempFile-9ccf14c0bb28758459489238a1754b3c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a8f8094275fbd264a85d43cd1ee9af15
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-a8f8094275fbd264a85d43cd1ee9af15
+    projectPath: Temp\UnityTempFile-a8f8094275fbd264a85d43cd1ee9af15
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-aa248e537056ce842a8e4f866b67b4eb
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-aa248e537056ce842a8e4f866b67b4eb
+    projectPath: Temp\UnityTempFile-aa248e537056ce842a8e4f866b67b4eb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ac5ebc60cc511274a8c703905ef60ec7
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-ac5ebc60cc511274a8c703905ef60ec7
+    projectPath: Temp\UnityTempFile-ac5ebc60cc511274a8c703905ef60ec7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b5ed01ab0c419ce42903a4702e17f51b
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-b5ed01ab0c419ce42903a4702e17f51b
+    projectPath: Temp\UnityTempFile-b5ed01ab0c419ce42903a4702e17f51b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b7ddbb87e517255489543f45e5273792
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-b7ddbb87e517255489543f45e5273792
+    projectPath: Temp\UnityTempFile-b7ddbb87e517255489543f45e5273792
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ba1ab332f21042a4c81772a449b0eea1
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-ba1ab332f21042a4c81772a449b0eea1
+    projectPath: Temp\UnityTempFile-ba1ab332f21042a4c81772a449b0eea1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c0eab62b4082dbd4fa268aba94ff498a
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-c0eab62b4082dbd4fa268aba94ff498a
+    projectPath: Temp\UnityTempFile-c0eab62b4082dbd4fa268aba94ff498a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c15479d42a62f954bb4a112668c21277
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-c15479d42a62f954bb4a112668c21277
+    projectPath: Temp\UnityTempFile-c15479d42a62f954bb4a112668c21277
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cb69a0618351b724db9c9506739a9afc
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-cb69a0618351b724db9c9506739a9afc
+    projectPath: Temp\UnityTempFile-cb69a0618351b724db9c9506739a9afc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cef49bdb873455e459077874e6bb0050
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-cef49bdb873455e459077874e6bb0050
+    projectPath: Temp\UnityTempFile-cef49bdb873455e459077874e6bb0050
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e16feb59ce5a91b4aa873709f8851cb4
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-e16feb59ce5a91b4aa873709f8851cb4
+    projectPath: Temp\UnityTempFile-e16feb59ce5a91b4aa873709f8851cb4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f40a04ab6db270541ac51d8d4fc29547
+    fullPath: D:\School\S2020\CSC631\ClassProjects\HW2actual\actual_hw2\Temp\UnityTempFile-f40a04ab6db270541ac51d8d4fc29547
+    projectPath: Temp\UnityTempFile-f40a04ab6db270541ac51d8d4fc29547
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
